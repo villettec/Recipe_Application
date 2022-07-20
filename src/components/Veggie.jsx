@@ -1,6 +1,6 @@
 function Veggie() {
   return (
-    <div>Veggies Too</div>
+    <div>Veggetables</div>
   )
 }
 
